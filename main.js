@@ -14,3 +14,4 @@ while (guess !== target) {
 }
 
 console.log("Correct number! Congratulations!")
+console.log(`Target: ${target} Guess: ${guess}`);
