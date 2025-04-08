@@ -12,3 +12,5 @@ while (guess !== target) {
         console.log("Too low")
     }
 }
+
+console.log("Correct number! Congratulations!")
